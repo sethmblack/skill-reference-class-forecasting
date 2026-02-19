@@ -3,8 +3,8 @@ name: reference-class-forecasting
 description: Predict outcomes by taking the "outside view" - identifying similar past cases, obtaining their statistical distribution of outcomes, and positioning the current case within that distribution.
 license: MIT
 metadata:
-  version: 1.0.4817
   author: sethmblack
+  version: 1.0.4818
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reference-class-forecasting
